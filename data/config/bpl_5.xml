@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plan>
+  <id>5</id>
+  <lang></lang>
+  <title>qc2</title>
+  <form>sequential</form>
+  <width>370</width>
+  <height>390</height>
+  <banners>
+    <banners_item>
+      <id>5</id>
+      <title>qc2</title>
+      <clid>1</clid>
+      <file_name>bannerlaptop.jpg</file_name>
+      <imageforswf></imageforswf>
+      <file_ext>jpg</file_ext>
+      <file_mime>image/jpeg</file_mime>
+      <file_width>370</file_width>
+      <file_height>390</file_height>
+      <file_alt></file_alt>
+      <file_click></file_click>
+      <target>_blank</target>
+      <bannerhtml></bannerhtml>
+      <publ_time>1544608200</publ_time>
+      <exp_time>0</exp_time>
+    </banners_item>
+  </banners>
+</plan>
